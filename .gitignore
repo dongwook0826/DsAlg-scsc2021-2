@@ -1,0 +1,6 @@
+
+# ignore .vscode folder ONLY ON THE Root Dir.
+/.vscode
+
+# no .exe files
+*.exe
