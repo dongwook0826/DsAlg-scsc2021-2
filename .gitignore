@@ -4,3 +4,6 @@
 
 # no .exe files
 *.exe
+
+# no .txt files
+*.txt
