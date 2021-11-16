@@ -1,3 +1,5 @@
+# Problem 11729
+
 def print_sierpinski_stars(k):
     empty_str = [' ']
     for _ in range(k-1):

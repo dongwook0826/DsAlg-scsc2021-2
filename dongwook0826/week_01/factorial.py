@@ -1,3 +1,5 @@
+# Problem 10872
+
 def factorial(n, prod):
     return factorial((n-1), n*prod) if n > 1 else prod
 
